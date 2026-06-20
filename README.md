@@ -1,13 +1,13 @@
 # CodeAlpha_Hangman-Game
 A simple command-line Hangman game developed in Python that demonstrates fundamental programming concepts through an interactive word-guessing experience. The player attempts to guess a randomly selected word one letter at a time while managing a limited number of incorrect attempts.
 
-# 🎯 Hangman Game in Python
+# Hangman Game in Python
 
 A simple and interactive command-line Hangman Game built using Python. This project demonstrates fundamental programming concepts such as loops, conditional statements, lists, strings, and the random module. Players must guess a hidden word one letter at a time before exhausting their limited number of attempts.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Hangman Game is a classic word-guessing game where a player tries to identify a randomly selected word by guessing individual letters. The game provides a fixed number of incorrect attempts, making it both challenging and engaging.
 
@@ -15,7 +15,7 @@ This project was developed to strengthen Python programming skills and gain hand
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Random word selection from a predefined list
 - Interactive console-based gameplay
@@ -28,7 +28,7 @@ This project was developed to strengthen Python programming skills and gain hand
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - Random Module
@@ -39,7 +39,7 @@ This project was developed to strengthen Python programming skills and gain hand
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 Hangman-Game/
@@ -50,7 +50,7 @@ Hangman-Game/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
    ```bash
@@ -64,7 +64,7 @@ Run the Python file:
 
 python hangman.py
 
-🎮 Game Rules
+# Game Rules
 A random word is selected by the program.
 The player guesses one letter at a time.
 If the guessed letter is correct, it is revealed in the word.
@@ -74,7 +74,7 @@ The game ends when:
 The player correctly guesses the entire word, or
 The player runs out of attempts.
 
-👨‍💻 Author
+# Author
 
 Lokesh K
 B.Tech CSE (Artificial Intelligence & Machine Learning) Student
